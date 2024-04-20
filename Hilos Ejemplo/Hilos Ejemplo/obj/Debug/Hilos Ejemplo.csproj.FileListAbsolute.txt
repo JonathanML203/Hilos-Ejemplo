@@ -1,0 +1,10 @@
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\bin\Debug\Hilos Ejemplo.exe.config
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\bin\Debug\Hilos Ejemplo.exe
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\bin\Debug\Hilos Ejemplo.pdb
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos Ejemplo.csproj.AssemblyReference.cache
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos_Ejemplo.Form1.resources
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos_Ejemplo.Properties.Resources.resources
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos Ejemplo.csproj.GenerateResource.cache
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos Ejemplo.csproj.CoreCompileInputs.cache
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos Ejemplo.exe
+D:\source\repos\Hilos Ejemplo\Hilos Ejemplo\obj\Debug\Hilos Ejemplo.pdb
